@@ -1,0 +1,2 @@
+#!/usr/bin/awk -f
+{ print tolower($0) }

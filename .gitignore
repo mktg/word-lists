@@ -1,0 +1,10 @@
+# Editor backup files
+*~
+
+# Example output files
+merged.txt
+filtered.txt
+lower.txt
+union.txt
+intersection.txt
+difference.txt
